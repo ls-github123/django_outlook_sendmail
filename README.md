@@ -1,0 +1,2 @@
+# django_outlook_sendmail
+使用Django框架调用微软outlook服务，进行邮件发送
